@@ -18,7 +18,7 @@ Console.WriteLine(i); // Dispara erro de variável local não atribuída.
 
 // Exercício 2
 
-const double c = 2.99792458E08;
+const double c = 3.99792458E08; // Alteração feita por Silvana 
 c = c + 2;  // Erro de build dizendo que o lado esquerdo deve conter uma variavel, propriedade ou indexador. Logo, constante não funciona.
 Console.WriteLine(c);
 
