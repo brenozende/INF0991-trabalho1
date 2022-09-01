@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+Console.WriteLine("Olá, mundo!");
 
 // Seção 4.1:
 // Exercício 1
